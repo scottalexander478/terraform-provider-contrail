@@ -1,2 +1,2 @@
-# teraform-provider-contrail
-Teraform provider for Contrail VNC apis.
+# terraform-provider-contrail
+Terraform provider for Contrail VNC apis.
